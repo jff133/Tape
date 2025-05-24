@@ -1,0 +1,13 @@
+# ninja log v5
+9	1433	7698188726132523	CMakeFiles/Tape.dir/src/TapeGenerator.cpp.obj	72596f9c4649527f
+12	353	7698188715330499	CMakeFiles/Tape.dir/src/TapeExceptions.cpp.obj	7acbe13705030096
+3	850	7698197778898900	CMakeFiles/Tape.dir/src/TapeSorter.cpp.obj	eca2d1079ee9f20b
+1	610	7698188717889381	CMakeFiles/Tape.dir/src/main.cpp.obj	1bbc97c652958641
+4	692	7698188718707854	CMakeFiles/Tape.dir/src/TapeImpl.cpp.obj	6bd60f5e5a7ce4f0
+545	683	7698200898453382	Tape.exe	3bcc707982a52d46
+0	151	7698201277657877	build.ninja	97776db3c6a0193c
+1	294	7698200431106876	CMakeFiles/Tape.dir/TapeExceptions.cpp.obj	9b8aed24b67a9b07
+3	544	7698200897113960	CMakeFiles/Tape.dir/main.cpp.obj	f5c033f14b9802ab
+7	553	7698200433695139	CMakeFiles/Tape.dir/TapeImpl.cpp.obj	1234284d0ab3392c
+5	786	7698200436014720	CMakeFiles/Tape.dir/TapeSorter.cpp.obj	42067e5cfd912d51
+3	1101	7698200439182067	CMakeFiles/Tape.dir/TapeGenerator.cpp.obj	751c1728feeede60

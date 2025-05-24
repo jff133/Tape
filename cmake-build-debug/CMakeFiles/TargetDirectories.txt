@@ -1,0 +1,3 @@
+C:/Users/MARGARITA/CLionProjects/Tape/cmake-build-debug/CMakeFiles/Tape.dir
+C:/Users/MARGARITA/CLionProjects/Tape/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MARGARITA/CLionProjects/Tape/cmake-build-debug/CMakeFiles/rebuild_cache.dir
